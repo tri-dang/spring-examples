@@ -13,8 +13,8 @@ Rememeber to create environment variables:
   
 To build and push new .war file to local tomcat server, you can run command: bash tomcat-local-deploy.sh
 To start tomcat server you can run following command:
-  cd $CATALINA_HOME/bin
-  bash startup.sh (bash shutdhown.sh)
+  - cd $CATALINA_HOME/bin
+  - bash startup.sh (bash shutdhown.sh)
   
 Or you can create a service to be more convinient.
 
