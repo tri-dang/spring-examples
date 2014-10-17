@@ -19,6 +19,6 @@ To start tomcat server you can run following command:
 Or you can create a service to be more convinient.
 
 Documents:
-  Apache Tomcat: http://tomcat.apache.org/
-  Apache Maven: http://maven.apache.org/
-  Spring: http://spring.io/
+  - Apache Tomcat: http://tomcat.apache.org/
+  - Apache Maven: http://maven.apache.org/
+  - Spring: http://spring.io/
